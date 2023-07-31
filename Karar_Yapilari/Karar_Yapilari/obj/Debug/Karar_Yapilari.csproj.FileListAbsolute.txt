@@ -1,7 +1,0 @@
-C:\Users\soyle\source\repos\Karar_Yapilari\Karar_Yapilari\bin\Debug\Karar_Yapilari.exe.config
-C:\Users\soyle\source\repos\Karar_Yapilari\Karar_Yapilari\bin\Debug\Karar_Yapilari.exe
-C:\Users\soyle\source\repos\Karar_Yapilari\Karar_Yapilari\bin\Debug\Karar_Yapilari.pdb
-C:\Users\soyle\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.csproj.AssemblyReference.cache
-C:\Users\soyle\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.csproj.CoreCompileInputs.cache
-C:\Users\soyle\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.exe
-C:\Users\soyle\source\repos\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.pdb
