@@ -1,0 +1,7 @@
+C:\Users\soyle\source\repos\Sıniflar\Sıniflar\bin\Debug\Sıniflar.exe.config
+C:\Users\soyle\source\repos\Sıniflar\Sıniflar\bin\Debug\Sıniflar.exe
+C:\Users\soyle\source\repos\Sıniflar\Sıniflar\bin\Debug\Sıniflar.pdb
+C:\Users\soyle\source\repos\Sıniflar\Sıniflar\obj\Debug\Sıniflar.csproj.AssemblyReference.cache
+C:\Users\soyle\source\repos\Sıniflar\Sıniflar\obj\Debug\Sıniflar.csproj.CoreCompileInputs.cache
+C:\Users\soyle\source\repos\Sıniflar\Sıniflar\obj\Debug\Sıniflar.exe
+C:\Users\soyle\source\repos\Sıniflar\Sıniflar\obj\Debug\Sıniflar.pdb
