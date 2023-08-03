@@ -1,0 +1,7 @@
+C:\Users\soyle\source\repos\Ekstra_Yapilar\Ekstra_Yapilar\bin\Debug\Ekstra_Yapilar.exe.config
+C:\Users\soyle\source\repos\Ekstra_Yapilar\Ekstra_Yapilar\bin\Debug\Ekstra_Yapilar.exe
+C:\Users\soyle\source\repos\Ekstra_Yapilar\Ekstra_Yapilar\bin\Debug\Ekstra_Yapilar.pdb
+C:\Users\soyle\source\repos\Ekstra_Yapilar\Ekstra_Yapilar\obj\Debug\Ekstra_Yapilar.csproj.AssemblyReference.cache
+C:\Users\soyle\source\repos\Ekstra_Yapilar\Ekstra_Yapilar\obj\Debug\Ekstra_Yapilar.csproj.CoreCompileInputs.cache
+C:\Users\soyle\source\repos\Ekstra_Yapilar\Ekstra_Yapilar\obj\Debug\Ekstra_Yapilar.exe
+C:\Users\soyle\source\repos\Ekstra_Yapilar\Ekstra_Yapilar\obj\Debug\Ekstra_Yapilar.pdb
