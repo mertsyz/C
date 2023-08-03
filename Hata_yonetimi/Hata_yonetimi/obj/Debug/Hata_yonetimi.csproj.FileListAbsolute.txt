@@ -1,0 +1,7 @@
+C:\Users\soyle\source\repos\Hata_yonetimi\Hata_yonetimi\bin\Debug\Hata_yonetimi.exe.config
+C:\Users\soyle\source\repos\Hata_yonetimi\Hata_yonetimi\bin\Debug\Hata_yonetimi.exe
+C:\Users\soyle\source\repos\Hata_yonetimi\Hata_yonetimi\bin\Debug\Hata_yonetimi.pdb
+C:\Users\soyle\source\repos\Hata_yonetimi\Hata_yonetimi\obj\Debug\Hata_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\soyle\source\repos\Hata_yonetimi\Hata_yonetimi\obj\Debug\Hata_yonetimi.exe
+C:\Users\soyle\source\repos\Hata_yonetimi\Hata_yonetimi\obj\Debug\Hata_yonetimi.pdb
+C:\Users\soyle\source\repos\Hata_yonetimi\Hata_yonetimi\obj\Debug\Hata_yonetimi.csproj.AssemblyReference.cache
